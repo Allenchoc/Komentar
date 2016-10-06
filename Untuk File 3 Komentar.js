@@ -1,4 +1,4 @@
-var disqus_shortname="https://disqus.com/by/allenchoc";
+var disqus_shortname="trikcerdas";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
